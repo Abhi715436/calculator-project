@@ -14,3 +14,8 @@ The project is a simple calculator that can perform:
 2. Open the folder in VS Code  
 3. Run the file:
 
+## 📸 Screenshot
+
+Here is the output of my calculator:
+
+![Calculator Output](screenshots/calculator_output.png)
